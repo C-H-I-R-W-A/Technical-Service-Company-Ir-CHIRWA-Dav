@@ -344,7 +344,7 @@ font-weight: 700px;
         box-shadow: 20px 15px 35px rgba(0, 0, 0, 0.8);
     }
     .contact{
-        background-image: url(im.jpg);
+        background-image: url(im.JPG);
         background-size: cover;
         box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.8);
         width: 100%;
@@ -472,4 +472,5 @@ font-weight: 700px;
     text-decoration: none;
     display: block;
     font-weight: bolder;
+
 }
